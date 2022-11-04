@@ -1,2 +1,2 @@
 # Natural-Language-Processing-
-Sentiment Analysis on Amazon Product Review:
+Sentiment Analysis on Amazon Product Review
